@@ -1,6 +1,6 @@
 import './App.css';
-import Form from './Form';
-import Ideas from './Ideas';
+import Form from '../form/Form';
+import Ideas from '../ideas/Ideas';
 import { useState } from 'react'
 
 function App(){
